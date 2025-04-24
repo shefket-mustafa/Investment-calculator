@@ -1,0 +1,16 @@
+#result {
+    width: 70%;
+    margin: 2rem auto;
+    color: white;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+#result th, #result td {
+    padding: 0.75rem 1rem;
+}
+
+#result thead {
+    font-weight: bold;
+}
+
